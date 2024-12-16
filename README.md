@@ -4,7 +4,7 @@ This Python script processes mathematical expressions from input files, performs
 
 ## Functionality
 
-The script reads input files named `test1.txt`, `test2.txt`, etc., processes the contents, and performs operations based on the parsed expressions.
+The script reads input files named `test1.txt`, `test2.txt`, etc., processes the contents, and performs operations based on the parsed expressions that are given.
 
 ### Operations Supported:
 
