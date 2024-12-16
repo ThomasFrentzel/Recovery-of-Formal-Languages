@@ -24,4 +24,41 @@ The script reads input files named `test1.txt`, `test2.txt`, etc., processes the
 ### Sample Input
 
 File `test1.txt`:
+```text
+3 + 5
+sin(90)
+5 * (2 + 3)
+exp(2, 3)
+rot(16)
+```
 
+### Sample Output
+
+```text
+8
+1.0
+25
+8
+4
+```
+
+---
+
+## Cloning the Repository
+
+To get started with the project, clone the repository:
+
+```bash
+git clone https://github.com/ThomasFrentzel/Recovery-of-Formal-Languages
+```
+
+## Running the Script
+
+1. Place input files (`test1.txt`, `test2.txt`, etc.) in the project directory.
+2. Run the script in your Python environment:
+
+```bash
+python expression_processor.py
+```
+
+3. Review the results printed to the console.
