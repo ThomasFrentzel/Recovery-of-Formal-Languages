@@ -55,10 +55,5 @@ git clone https://github.com/ThomasFrentzel/Recovery-of-Formal-Languages
 ## Running the Script
 
 1. Place input files (`test1.txt`, `test2.txt`, etc.) in the project directory.
-2. Run the script in your Python environment:
-
-```bash
-python expression_processor.py
-```
-
+2. Run the script in your Python environment.
 3. Review the results printed to the console.
