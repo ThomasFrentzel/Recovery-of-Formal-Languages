@@ -44,7 +44,7 @@ rot(16)
 
 ---
 
-## Cloning the Repository
+## Clone the Repository
 
 To get started with the project, clone the repository:
 
